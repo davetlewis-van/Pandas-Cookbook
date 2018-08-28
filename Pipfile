@@ -8,6 +8,9 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
+lxml = "*"
+"bs4" = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
